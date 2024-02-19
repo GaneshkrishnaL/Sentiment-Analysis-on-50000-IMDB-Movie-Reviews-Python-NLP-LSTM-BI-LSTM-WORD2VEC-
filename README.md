@@ -16,3 +16,26 @@ This project utilizes deep learning models and word embeddings to perform sentim
 - **Results and Conclusion**: Present detailed results, including model accuracies and the effectiveness of word embeddings in sentiment analysis. Discuss insights and potential improvements for future work.
 
 - **Future Work**: Suggest directions for further enhancing the sentiment analysis model, such as exploring more complex models, additional datasets, or domain-specific adaptations.
+
+![Sentiment Analysis on IMDb Movie Reviews Project Overview](https://github.com/GaneshkrishnaL/Sentiment-Analysis-on-50000-IMDB-Movie-Reviews-Python-NLP-LSTM-BI-LSTM-WORD2VEC-/assets/92093823/bc1a2b7f-9cc4-4071-b1a9-858ae09c3066)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
